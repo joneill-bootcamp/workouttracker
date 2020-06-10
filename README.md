@@ -16,7 +16,7 @@ Graph your workout history!
 
 # Heroku Link
 
->
+> https://aqueous-bastion-17761.herokuapp.com
 
 # Table of Contents
 
